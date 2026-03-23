@@ -52,5 +52,4 @@ function displayResult() {
   document.getElementById("result-container").style.display = "block";
 }
 
-// Button event
 document.getElementById("show-result").addEventListener("click", displayResult);
